@@ -155,8 +155,8 @@ nav ul li a:hover {
 
 .contact-section form {
     display: flex;
-    flex-direction: column; /* Acomoda todo en una sola columna */
-    gap: 1rem; /* Espacio entre los elementos */
+    flex-direction: column; 
+    gap: 1rem; 
 }
 
 .contact-section label {
